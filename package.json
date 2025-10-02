@@ -43,7 +43,7 @@
     "firebase": "^9.15.0",
     "formik": "^2.2.9",
     "lottie-react-native": "^5.1.4",
-    "patch-package": "^6.5.0",
+    "patch-package": "^8.0.1",
     "pod-install": "^0.1.38",
     "popup-ui": "^1.2.2",
     "react": "18.0.0",
